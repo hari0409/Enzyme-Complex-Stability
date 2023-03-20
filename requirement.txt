@@ -6,4 +6,4 @@ seaborn
 plotly
 biopandas
 scikeras
-jupyter-lab
+jupyterlab
