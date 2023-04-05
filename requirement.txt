@@ -6,8 +6,5 @@ seaborn
 plotly
 biopandas
 scikeras
-<<<<<<< HEAD
 jupyterlab
-=======
-jupyterlab
->>>>>>> 3da8e28c09f12e7a81972bc7d7b84c8300af311f
+xgboost
